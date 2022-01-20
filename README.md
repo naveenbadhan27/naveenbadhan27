@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishav9713&show_icons=true&theme=radical)
+![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenbadhan27&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav9713&langs_count=3&hide_title=true&hide_border=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenbadhan27&langs_count=3&hide_title=true&hide_border=true&theme=radical" />
 
